@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "C:/Users/dkmov/OneDrive/Desktop/Amelie/dockeymove/practice/Nuxt3/Nuxt_Base/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "C:/Users/dkmov/OneDrive/Desktop/Amelie/dockeymove/practice/Nuxt3/Nuxt_Base/node_modules/nuxt/dist/app/entry.js"
+  }
+}
