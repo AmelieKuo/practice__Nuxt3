@@ -1,0 +1,3 @@
+[submodule "Nuxt_Base"]
+	path = Nuxt_Base
+	url = https://github.com/AmelieKuo/practice__Nuxt3.git
