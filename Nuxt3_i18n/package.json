@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lang": "node GoogleSheetToJson.js"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.2",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2",
+    "xss": "^1.0.15"
+  },
+  "devDependencies": {
+    "@nuxtjs/i18n": "8.0.0-beta.10",
+    "flat": "^6.0.1",
+    "fs-extra": "^11.2.0",
+    "spreadsheet-to-json": "^2.0.0"
+  }
+}
